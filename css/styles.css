@@ -59,3 +59,17 @@ height: 300px;
   left: 0;
   min-height: 300px;
 }
+
+.smoking-group {
+  padding-bottom: 20px;
+}
+/* .label-smoking {
+
+} */
+
+#carouselButton {
+  right:0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
